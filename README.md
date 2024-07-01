@@ -1,4 +1,5 @@
-# React + Vite
+# React Multilingual Code Editor 
+ React + Vite
 
 An in-browser code editor that allows you to write and execute your code in the browser.
 
